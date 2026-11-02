@@ -13,6 +13,7 @@ DIV/
 # Extensions
 *.zip
 *.csv
+*.parquet
 
 # Distribution / packaging
 .Python
