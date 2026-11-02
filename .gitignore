@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Folder 
+data_olist/
+DIV/
 
 # Extensions
 *zip
