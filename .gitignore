@@ -11,7 +11,8 @@ data_olist/
 DIV/
 
 # Extensions
-*zip
+*.zip
+*.csv
 
 # Distribution / packaging
 .Python
