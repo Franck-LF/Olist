@@ -8,11 +8,11 @@ __pycache__/
 
 # Folder 
 data_olist/
+data_olist EXCEL/
 DIV/
 
 # Extensions
 *.zip
-*.csv
 *.xlsx
 *.parquet
 
