@@ -13,6 +13,7 @@ DIV/
 # Extensions
 *.zip
 *.csv
+*.xlsx
 *.parquet
 
 # Distribution / packaging
